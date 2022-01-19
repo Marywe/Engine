@@ -3,7 +3,7 @@
 // Drafted by Ángel in January 2019.
 // angel.rodriguez@esne.edu
 
-#include <../../libraries/windows/sdl2-vs/include/SDL.h>
+#include <SDL.h>
 #include <Keyboard.hpp>
 
 namespace engine
